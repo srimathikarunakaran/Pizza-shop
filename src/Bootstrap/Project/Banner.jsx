@@ -1,8 +1,8 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Col, Container, Row,Carousel } from "react-bootstrap";
-import Pizza from "./images/Pizza.jpg";
-import Pizza1 from "./images/Pizza1.jpg";
-import Pizza2 from "./images/Pizza2.jpg";
+import Pizza from './Images/Pizza.jpg';
+import Pizza1 from './Images/Pizza1.jpg';
+import Pizza2 from './Images/Pizza2.jpg';
 
 
 
